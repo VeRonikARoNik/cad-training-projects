@@ -1,7 +1,8 @@
 # cad-training-projects
 
 ### 📦 Project: Knob Mount (Practice Model)
-![image](https://github.com/user-attachments/assets/02c0b9be-7a0d-4a50-9c36-38fdc268571b)
+![image](https://github.com/user-attachments/assets/bb0b7d44-b08a-4534-b80f-54085a1c3799)
+
 
 ## 🌐 View Online  
 [https://cad.onshape.com/documents/53230872f7538471ca5ad7c6/w/fbcf1629b196b8fcc329957a/e/2d888a065429afb7e1b2f85b](https://cad.onshape.com/documents/53230872f7538471ca5ad7c6/w/fbcf1629b196b8fcc329957a/e/2d888a065429afb7e1b2f85b)
