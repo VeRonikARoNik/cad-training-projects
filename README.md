@@ -3,7 +3,7 @@
 ### 📦 Project: Knob Mount (Practice Model)
 
 ## 🌐 View Online  
-[🔗 Open in Onshape](https://cad.onshape.com/documents/53230872f7538471ca5ad7c6/w/fbcf1629b196b8fcc329957a/e/2d888a065429afb7e1b2f85b)
+[🔗 Open in Onshape][(https://cad.onshape.com/documents/53230872f7538471ca5ad7c6/w/fbcf1629b196b8fcc329957a/e/2d888a065429afb7e1b2f85b)](https://cad.onshape.com/documents/53230872f7538471ca5ad7c6/w/fbcf1629b196b8fcc329957a/e/2d888a065429afb7e1b2f85b)
 ---
 
 ## 🎥 Based on: Onshape Tutorial
@@ -36,7 +36,7 @@ This project served as a **practical introduction to parametric 3D modeling** in
 ### 🧩 Project: Gate Hinge (Mass Challenge)
 
 ## 🌐 View Online  
-[🔗 Open in Onshape]([https://cad.onshape.com/documents/bf4776db889388ca528cdd6c/w/ffde85486e46288e3e23c31f/e/f157efd75025dfac949d53ae](https://cad.onshape.com/documents/bf4776db889388ca528cdd6c/w/ffde85486e46288e3e23c31f/e/f157efd75025dfac949d53ae))
+[🔗 Open in Onshape][([https://cad.onshape.com/documents/bf4776db889388ca528cdd6c/w/ffde85486e46288e3e23c31f/e/f157efd75025dfac949d53ae](https://cad.onshape.com/documents/bf4776db889388ca528cdd6c/w/ffde85486e46288e3e23c31f/e/f157efd75025dfac949d53ae))](https://cad.onshape.com/documents/bf4776db889388ca528cdd6c/w/ffde85486e46288e3e23c31f/e/f157efd75025dfac949d53ae)
 
 🎬 Based on the CAD challenge by **TooTallToby**:  
 **[What is the MASS of this part? | Gate Hinge Challenge](https://www.youtube.com/watch?v=vJHViLPJNuw&t=33s)**
