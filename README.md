@@ -37,7 +37,6 @@ This project served as a **practical introduction to parametric 3D modeling** in
 
 ## 🌐 View Online  
 [🔗 Open in Onshape]([https://cad.onshape.com/documents/bf4776db889388ca528cdd6c/w/ffde85486e46288e3e23c31f/e/f157efd75025dfac949d53ae](https://cad.onshape.com/documents/bf4776db889388ca528cdd6c/w/ffde85486e46288e3e23c31f/e/f157efd75025dfac949d53ae))
-[🔗 Open in Onshape]()
 
 🎬 Based on the CAD challenge by **TooTallToby**:  
 **[What is the MASS of this part? | Gate Hinge Challenge](https://www.youtube.com/watch?v=vJHViLPJNuw&t=33s)**
